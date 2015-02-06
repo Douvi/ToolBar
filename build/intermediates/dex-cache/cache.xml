@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/edouardroussillon/Documents/workpaces/tools/ToolBar/app/build/intermediates/exploded-aar/com.android.support/palette-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="926692214530f39eaed89159237d26cdc0ae6e48">
+        <dex dex="/Users/edouardroussillon/Documents/workpaces/tools/ToolBar/app/build/intermediates/pre-dexed/debug/classes-fb94ea7dacb1327c778ee2c1b0ae81ea3de2b589.jar" />
+    </item>
+    <item
+        jar="/Users/edouardroussillon/Documents/workpaces/tools/ToolBar/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/edouardroussillon/Documents/workpaces/tools/ToolBar/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-098af3590c4211f281364ad489b7909e8a6b863a.jar" />
+    </item>
+    <item
+        jar="/Users/edouardroussillon/Documents/workpaces/tools/ToolBar/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/edouardroussillon/Documents/workpaces/tools/ToolBar/app/build/intermediates/pre-dexed/debug/classes-49ef56615848e5f0655ba5d40790deb1c68fad46.jar" />
+    </item>
+    <item
+        jar="/Users/edouardroussillon/Documents/workpaces/tools/ToolBar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/edouardroussillon/Documents/workpaces/tools/ToolBar/app/build/intermediates/pre-dexed/debug/classes-278b5b343b105ee878ff4dc391926421f9148541.jar" />
+    </item>
+    <item
+        jar="/Users/edouardroussillon/Documents/tools/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/edouardroussillon/Documents/workpaces/tools/ToolBar/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ebc5441a84a8d905ee9c012200ea543259b6d988.jar" />
+    </item>
+    <item
+        jar="/Users/edouardroussillon/Documents/workpaces/tools/ToolBar/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/edouardroussillon/Documents/workpaces/tools/ToolBar/app/build/intermediates/pre-dexed/debug/classes-7728ceae8a60b8718df3e2aa087d006c8b982526.jar" />
+    </item>
+
+</items>

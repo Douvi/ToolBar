@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="AppTheme.Widget.ActionButton.Overflow" parent="@style/Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:src">@mipmap/ic_action_navigation_more_vert</item>
+    </style>
+
+    <style name="AppTheme.Widget.AppCompat.Toolbar.Button.Navigation" parent="@style/Widget.AppCompat.Toolbar.Button.Navigation">
+    </style>
+
+</resources>

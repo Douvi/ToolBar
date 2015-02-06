@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- HIDE ACTION BAR TO USE TOOLBAR -->
+        <item name="windowActionBar">false</item>
+
+        <!-- COLOR PRIMARY OF THE APPLICATION-->
+        <item name="colorPrimary">@color/first</item>
+        <item name="colorPrimaryDark">@color/second</item>
+        <item name="colorControlHighlight">@color/second</item>
+        <item name="colorButtonNormal">@color/first</item>
+
+        <item name="colorAccent">@color/third</item>
+
+        <!-- COLOR FOR SWITCH MODE DEFAULT / ACTIVE MODE SWITCH WILL USE colorAccent (For the ball and line)-->
+        <!-- BALL COLOR -->
+        <item name="colorSwitchThumbNormal">@color/second</item>
+        <!-- LINE COLOR - android add automatically a transparency -->
+        <item name="android:colorForeground">@color/second</item>
+
+        <!-- CHANGED THE COLOR OF THE TEXT AND BUTTON OF TOOLBAR-->
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_dark</item>
+        <item name="android:itemTextAppearance">@style/AppTheme.TextAppearance.Widget.IconMenu.Item</item>
+        <item name="actionOverflowButtonStyle">@style/AppTheme.Widget.ActionButton.Overflow</item>
+        <item name="toolbarNavigationButtonStyle">@style/AppTheme.Widget.AppCompat.Toolbar.Button.Navigation</item>
+
+    </style>
+
+    <style name="AppTheme.TextAppearance.Widget.IconMenu.Item" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
+        <item name="android:textColor">@color/abc_secondary_text_material_light</item>
+    </style>
+
+    <style name="AppTheme.Widget.ActionButton.Overflow" parent="@style/Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:src">@mipmap/ic_action_navigation_more_vert</item>
+        <item name="android:background">@drawable/custom_btn</item>
+    </style>
+
+    <style name="AppTheme.Widget.AppCompat.Toolbar.Button.Navigation" parent="@style/Widget.AppCompat.Toolbar.Button.Navigation">
+        <item name="android:background">@drawable/custom_btn</item>
+    </style>
+
+</resources>
